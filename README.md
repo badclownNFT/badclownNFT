@@ -57,7 +57,7 @@ Visit https://metamask.io/ in Google Chrome (or Brave) browser and click the Dow
 
 You will be take to the Chrome extension page. Click the "Add to Chrome" button.
 
-![](./images/metamask_01.png)
+![](./images/metamask_01.png | width=200)
 
 Click "Add Extension"
 
