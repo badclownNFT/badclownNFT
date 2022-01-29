@@ -51,7 +51,7 @@ https://docs.flashbots.net/flashbots-protect/rpc/quick-start/
 
 Now you can use it for every eth tx and it’s done exactly like a regular tx.
 
-# Metamassk guide
+# Metamask guide
 
 Visit https://metamask.io/ in Google Chrome (or Brave) browser and click the Download button.
 
