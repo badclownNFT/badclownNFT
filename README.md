@@ -55,29 +55,42 @@ Now you can use it for every eth tx and it’s done exactly like a regular tx.
 
 Visit https://metamask.io/ in Google Chrome (or Brave) browser and click the Download button.
 
+### Step 1
 You will be take to the Chrome extension page. Click the "Add to Chrome" button.
 
-![](./images/metamask_01.png | width=200)
+![](./images/metamask_01.png)
+
+### Step 2
 
 Click "Add Extension"
 
 ![](./images/metamask_02.png)
 
+### Step 3
+
 In your toolbar you will see the Metamask icon. It may be hidden, if so click on the puzzle piece and you will see it there. Click on it.
 
-![image info](./mimages/etamask_03.png)
+![image info](./images/metamask_03.png)
+
+### Step 4
 
 This will take you to the Metamask setup in your browser. Click on the "Get Started" button.
 
 ![image info](./images/metamask_04.png)
 
+### Step 5
+
 Next click on "Create a Wallet". If you already have one setup you could import your wallet here too.
 
 ![image info](./images/metamask_05.png)
 
+### Step 6
+
 Review the terms, and agree or decline. It's not important.
 
 ![image info](./images/metamask_06.png)
+
+### Step 7
 
 Enter in a safe password. Use something long with numbers and special characters. If you haven't used a password manager before this might be a good time to start.
 
@@ -85,17 +98,25 @@ Click "Create" once you are happy with your password.
 
 ![image info](./images/metamask_07.png)
 
-Next you will receive your secret recovery phrase. Click on the box to reveal it. Write it down on a piece of paper and put it somewhere safe. Do not store it in plain text on your computer. Only store it digitally in a trusted vault.
+### Step 8
+
+Next you will receive your secret grecovery phrase. Click on the box to reveal it. Write it down on a piece of paper and put it somewhere safe. Do not store it in plain text on your computer. Only store it digitally in a trusted vault.
 
 ![image info](./images/metamask_08.png)
+
+### Step 9
 
 Confirm your recovery phrase by dragging the words into the big box in the correct order. Once you are happy click "Confirm"
 
 ![image info](./images/metamask_09.png)
 
+### Step 10
+
 That's it! You're all done. You can now start transacting.
 
 ![image info](./images/metamask_10.png)
+
+### Step 11
 
 Your wallet address is highlighted in red in the image. You can copy the address by clicking on it. Now you can go and deposit some ETH and buy some NFTs mfer.
 
@@ -103,21 +124,31 @@ Your wallet address is highlighted in red in the image. You can copy the address
 
 # OpenSea Guide
 
+### Step 2
+
 The first thing you need to do is connect your Metamask Wallet. Click on the wallet button highlighted below.
 
 ![image info](./images/os_1.png)
+
+### Step 2
 
 Select Metamask from the list.
 
 ![image info](./images/os_2.png)
 
+### Step 3
+
 Now you need to allow OpenSea access to your wallet. Click the "Next" button.
 
 ![image info](./images/os_3.png)
 
+### Step 4
+
 Not sign the contract by clicking the "Connect" button.
 
 ![image info](./images/os_4.png)
+
+### Step 5
 
 You should see your wallet balance now. You'll need some funds to be able to buy an NFT... Maybe one day this wallet will have some money...
 
@@ -125,13 +156,21 @@ You should see your wallet balance now. You'll need some funds to be able to buy
 
 ![image info](./images/os_5.png)
 
+### Step 6
+
 Now to find a collection that you believe in. This is a process on it's own. Do not search OpenSea there are too many scams on there. Use a link from the official Twitter or Discord.
 
 ![image info](./images/os_6_humans.png)
 
-Once you've found your long HODL you need to find the right NFT. If a project is selling fast you won't want to buy off the top 2 rows, but try and find something that suits your taste and budget. You can look at the rarity tools in the [Useful Links](#useful-links) section or you can go with your gut.
+### Step 7
+
+Once you've found your long HODL you need to find the right NFT. Time to find the NFT for you. You can click on the "Buy Now" button on the left to see what's for sale, and sort using the filter. If you're new you may want to sort by price.
+
+If a project is selling fast you won't want to buy off the top 2 rows, but try and find something that suits your taste and budget. You can look at the rarity tools in the [Useful Links](#useful-links) section or you can go with your gut.
 
 ![image info](./images/os_7_humans.png)
+
+### Step 8
 
 Click through to the NFT page itself. Often the items on the floor have already been sold and you risk losing gas if you are not careful.
 
@@ -139,12 +178,18 @@ If you see the big blue "Buy now" button you've got a chance. Click it.
 
 ![image info](./images/os_8_humans.png)
 
+### Step 9
+
 Check the box to confirm the purchase. You'll need enough funds in your wallet to continue. Click the "Confirm checkout" button.
 
 ![image info](./images/os_9_humans.png)
 
+### Step 10
+
 Metamask will open and will give you an estimate gas fee. If you have enough funds for the transaction and the gas the "Confirm" button will be active. If you are happy with your purchase click the button.
+
+**Note:** This may take a while. Could be up to 60 seconds or more.
 
 ![image info](./images/os_10_humans.png)
 
-Congratulations!! You just bought your first NFT!!
+### Congratulations!! You just bought your first NFT!!
