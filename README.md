@@ -124,7 +124,7 @@ Your wallet address is highlighted in red in the image. You can copy the address
 
 # OpenSea Guide
 
-### Step 2
+### Step 1
 
 The first thing you need to do is connect your Metamask Wallet. Click on the wallet button highlighted below.
 
