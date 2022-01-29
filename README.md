@@ -104,15 +104,19 @@ Your wallet address is highlighted in red in the image. You can copy the address
 # OpenSea Guide
 
 The first thing you need to do is connect your Metamask Wallet. Click on the wallet button highlighted below.
+
 ![image info](./images/os_1.png)
 
 Select Metamask from the list.
+
 ![image info](./images/os_2.png)
 
 Now you need to allow OpenSea access to your wallet. Click the "Next" button.
+
 ![image info](./images/os_3.png)
 
 Not sign the contract by clicking the "Connect" button.
+
 ![image info](./images/os_4.png)
 
 You should see your wallet balance now. You'll need some funds to be able to buy an NFT... Maybe one day this wallet will have some money...
@@ -123,22 +127,24 @@ You should see your wallet balance now. You'll need some funds to be able to buy
 
 Now to find a collection that you believe in. This is a process on it's own. Do not search OpenSea there are too many scams on there. Use a link from the official Twitter or Discord.
 
-![image info](./images/os_6.png)
+![image info](./images/os_6_humans.png)
 
 Once you've found your long HODL you need to find the right NFT. If a project is selling fast you won't want to buy off the top 2 rows, but try and find something that suits your taste and budget. You can look at the rarity tools in the [Useful Links](#useful-links) section or you can go with your gut.
 
-![image info](./images/os_7.png)
+![image info](./images/os_7_humans.png)
 
 Click through to the NFT page itself. Often the items on the floor have already been sold and you risk losing gas if you are not careful.
 
 If you see the big blue "Buy now" button you've got a chance. Click it.
-![image info](./images/os_8.png)
+
+![image info](./images/os_8_humans.png)
 
 Check the box to confirm the purchase. You'll need enough funds in your wallet to continue. Click the "Confirm checkout" button.
-![image info](./images/os_9.png)
+
+![image info](./images/os_9_humans.png)
 
 Metamask will open and will give you an estimate gas fee. If you have enough funds for the transaction and the gas the "Confirm" button will be active. If you are happy with your purchase click the button.
 
-![image info](./images/os_10.png)
+![image info](./images/os_10_humans.png)
 
 Congratulations!! You just bought your first NFT!!
